@@ -1,21 +1,32 @@
-# 🛡️ BOSS CYBERSECURITY TOOLKIT
+# 🛡️ BOSS v15 LEGEND 98/100
 
-**Score 92/100 | Level 13 FINAL | Dili Timor-Leste 🇹🇱**
+Score 98/100 - 15 Tools - Dili Timor-Leste - HP Only - 0.00 KB/s
+Creator: silviomagno86-netizen
+Date: 31 Oct 2026 - 19:01
 
-Creator: silviomagno86-netizen | HP Only | 31 Oct 2026
-
-> From error `can't open file boss_final.py` at 15:36 to Public Repo at 18:15 - Built on HP in Dili with 0.92 KB/s internet!
-
-### 🛠️ 10 Tools in boss_final.py
-1. Hash Generator - MD5/SHA
-2. Port Scanner - Fast scan
-3. Password Generator
-4. IP Info - DNS
+## 15 Tools LEGEND
+1. Hash Cracker
+2. Port Scanner
+3. Password Gen L@gamata86+
+4. IP Info
 5. Base64 Tool
-6. Whois Sim
+6. Whois Lookup
 7. Header Check
-8. Hash Crack Sim
+8. Brute Force
 9. Subdomain Finder
-10. Vuln Scanner - Score 92/100
+10. Vuln Scanner
+11. WIFI Analyzer NEW v15
+12. OSINT Module NEW v15
+13. Final Checker NEW v15
+14. Banner Dili Style
+15. Main System
 
-### 🚀 Run in Termux
+## Run
+python boss_v15_legend.py
+
+## Journey
+15:36 10 tools 92/100 0.00 KB/s
+18:58 15 tools 98/100 LEGEND
+19:01 README LEGEND
+
+Made in Dili Timor-Leste HP Only 🇹🇱
